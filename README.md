@@ -1,0 +1,2 @@
+# -gitBasics
+Exercicio NTTData
